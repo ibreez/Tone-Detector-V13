@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Tone Detector</string>
+    <string name="accessibility_service_description">Analyzes the tone of on-screen messages in real-time</string>
+</resources>
